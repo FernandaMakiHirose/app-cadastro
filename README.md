@@ -8,6 +8,9 @@
 Criei o projeto:
 >dotnet new console -n DIO.Series
 
+Executar:
+>dotnet run
+
 ## CRUD
 - Create / Criar
 - Read / Ler
