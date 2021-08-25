@@ -1,4 +1,6 @@
 # Criando uma APP de cadastro em memória
+Criei um algoritmo simples de cadastro de séries para praticar meus conhecimentos de orientação a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto aprendi: Como pensar orientado a objetos, como modelar o meu domínio, como utilizar recursos de coleção para salvar meus dados em memória.
+
 ## Pré-requisitos
 - Lógica de Programação
 - Conhecimento básico em OO
