@@ -6,6 +6,9 @@ Criei um algoritmo simples de cadastro de séries para praticar meus conheciment
 - Conhecimento básico em OO
 - Conhecimento básico em .NET
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Comandos
 Criei o projeto:
 >dotnet new console -n DIO.Series
